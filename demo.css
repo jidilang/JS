@@ -1,0 +1,8 @@
+*{
+	margin: 0; 
+	padding: 0; 
+}
+#div1{
+	width: 400px; 
+	background-color: red; 
+}
